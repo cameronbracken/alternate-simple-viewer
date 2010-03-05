@@ -1,4 +1,4 @@
-.flash name="viewer.swf" version=6 compress
+.flash name="vlternate-simple-viewer.swf" background=white version=6 compress
     
 # A variant on the simple viewer   
 #
